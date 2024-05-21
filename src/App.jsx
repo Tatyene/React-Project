@@ -1,7 +1,9 @@
+import Title from "./Title";
+
 function App() {
   return (
     <div>
-      <h1>Olá mundo!</h1>
+      <Title text="Hello World!"/>
     </div>
   );
 }
